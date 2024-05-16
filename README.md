@@ -1,16 +1,16 @@
 # widget_test
 
-A new Flutter project.
+# 1. GlassMorphism
 
-## Getting Started
+Glassmorphism is a Flutter package that provides widgets and utilities for creating glass morphism UI designs in your Flutter applications.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Easy Integration**: Simply import the package and start using glass morphism in your Flutter apps.
+- **Customizable**: Customize the blur, opacity, and color of glass morphism widgets to match your app's design.
+- **Widgets**: Includes various glass morphism widgets such as containers, buttons, and cards.
+- **Utilities**: Additional utilities for applying glass morphism effects to existing widgets.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/DarshanPatel311/Widget_Test/assets/143177575/24b56f42-7b00-4809-a271-960340283ed4" width=22% height=35%>
