@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widget_test/view/glass_morphism_screen.dart';
+import 'package:widget_test/1_Glass_Morphism/view/glass_morphism_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       routes: {
         '/':(context) => GlassMorphism()
       }

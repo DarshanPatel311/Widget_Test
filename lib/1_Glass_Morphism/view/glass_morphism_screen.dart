@@ -112,22 +112,9 @@ class GlassMorphism extends StatelessWidget {
                       )
                     ],
                   ),
+
                   SizedBox(
-                    height: 10,
-                  ),
-                  Row(
-                    children: [
-                      SizedBox(
-                        width: 20,
-                      ),
-                      Text(
-                        "mockup.",
-                        style: TextStyle(fontSize: 18, color: Colors.white),
-                      )
-                    ],
-                  ),
-                  SizedBox(
-                    height: 20,
+                    height: 50,
                   ),
                   Text(
                     "Landing Page",
